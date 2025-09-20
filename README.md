@@ -1,4 +1,4 @@
-# Retencion-clientes-gimnasio
+# Retencion de clientes para gimnasio
 Se identificaron las causas de cancelacion
 Se identifico el sector de clientes con mas alta probabilidad de cancelar
 
